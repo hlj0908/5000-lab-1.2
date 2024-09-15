@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "slides/slides.html#introduce",
+    "href": "slides/slides.html#introduce",
+    "title": "Sample Presentation",
+    "section": "Introduce",
+    "text": "Introduce\n\n\nThe passage experienced a surge in popularity during the 1960s when Letraset used it on their dry-transfer sheets, and again during the 90s as desktop publishers bundled the text with their software. Today it’s seen all around the web; on templates, websites, and stock designs. Use our generator to get your own, or read on for the authoritative history of lorem ipsum.\n\n“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.” (Bolyen et al. 2019)."
+  },
+  {
+    "objectID": "slides/slides.html#content",
+    "href": "slides/slides.html#content",
+    "title": "Sample Presentation",
+    "section": "Content",
+    "text": "Content\nBelow is a Python plot using code folding. Click the code block to view the code。\n\nimport numpy as np\nimport matplotlib.pyplot as plt\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(subplot_kw={\"projection\": \"polar\"})\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()"
+  },
+  {
+    "objectID": "slides/slides.html#image",
+    "href": "slides/slides.html#image",
+    "title": "Sample Presentation",
+    "section": "Image",
+    "text": "Image\n\nRowing"
+  },
+  {
+    "objectID": "slides/slides.html#slide-with-speaker-notes",
+    "href": "slides/slides.html#slide-with-speaker-notes",
+    "title": "Sample Presentation",
+    "section": "Slide with speaker notes",
+    "text": "Slide with speaker notes\nSlide content\n\nSpeaker notes go here. Now, with all of this in mind, it’s time to drop a bombshell about the fancy fonts you’ll find in this font generator: Fancy fonts aren’t actual fonts. Surprise!\nThese fancy “fonts” are actually the product of Unicode. Unicode is the IT standard for encoding and text expression throughout 95% of the websites you engage with online. With roughly 150,000 characters, Unicode includes modern and historic scripts, symbol sets and emojis. So that fancy fotextnt you’re using to get lolz, upvotes and likes is actually a Unicode symbol.\n\n\n\nDiving\n\n\n\n\n\n\nBolyen, Evan, Jai Ram Rideout, Matthew R Dillon, Nicholas A Bokulich, Christian C Abnet, Gabriel A Al-Ghalith, Harriet Alexander, et al. 2019. “Reproducible, Interactive, Scalable and Extensible Microbiome Data Science Using QIIME 2.” Nature Biotechnology 37 (8): 852–57."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "about.html#h2",
+    "href": "about.html#h2",
+    "title": "About",
+    "section": "h2",
+    "text": "h2\nRaise your design from the dead with an army of Zombie Ipsum, frightful filler text that just won’t die. Try the lorem ipsum of the undead if you dare…\n\nh3\nZombie ipsum reversus ab viral inferno, nam rick grimes malum cerebro. De carne lumbering animata corpora quaeritis. Summus brains sit​​, morbo vel maleficia? De apocalypsi gorger omero undead survivor dictum mauris. Hi mindless mortuis soulless creaturas, imo evil stalking monstra adventus resi dentevil vultus comedat cerebella viventium.\n\n\nCreating the plot\n\n\n# Python code cell with code-folding\nimport matplotlib.pyplot as plt\nimport numpy as np\n# Generating random data\nx = np.linspace(0, 10, 100)\ny = np.sin(x)\nplt.figure(figsize=(8, 5))\nplt.plot(x, y, label=\"Sine Wave\", color='b')\nplt.title('Example Plot: Sine Wave', fontsize=16)\nplt.xlabel('X Axis', fontsize=12)\nplt.ylabel('Y Axis', fontsize=12)\nplt.grid(True)\nplt.legend()\nplt.show()"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "Introduction\nBackground\nDetails\nFigures and Media\nReferences"
+  },
+  {
+    "objectID": "index.html#latex-equation",
+    "href": "index.html#latex-equation",
+    "title": "simple_quarto_website",
+    "section": "LaTex equation",
+    "text": "LaTex equation\n\nInline-math\nHere is a inline LaTeX equation: \\(E = mc^2\\).\n\n\nNon inline-math\nHere is a non-inline LaTeX equation: \\[\n\\int_{a}^{b} x^2 \\, dx = \\frac{b^3 - a^3}{3}\n\\]"
+  },
+  {
+    "objectID": "index.html#using-methods",
+    "href": "index.html#using-methods",
+    "title": "simple_quarto_website",
+    "section": "Using methods",
+    "text": "Using methods\n\nFootnote\nThis is a sentence with a footnote.1\n\n\nQuote\n\nThis is a blockquote. It is used to highlight a quote or special information.\n\n\n\nImage\n \n\n\nVideo\n Watch the video\n\n\nMermaid\n\n\n\n\n\ngraph LR\n    A[Start] --&gt; B{Is it?}\n    B --&gt;|Yes| C[OK]\n    B --&gt;|No| D[Not OK]\n    C --&gt; E[End]\n    D --&gt; E"
+  },
+  {
+    "objectID": "index.html#table-of-contents",
+    "href": "index.html#table-of-contents",
+    "title": "simple_quarto_website",
+    "section": "Table of Contents",
+    "text": "Table of Contents\nMarkdown Table:\n| Name | Birth | Gender |\n|------|-------|--------|\n| Row 1 | Data 1 | Data 2 |\n| Row 2 | Data 3 | Data 4 |"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "simple_quarto_website",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThis is the footnote text.↩︎"
+  }
+]
